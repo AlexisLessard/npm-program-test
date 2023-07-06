@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AlexisLessard/npm-program-test#readme",
   "devDependencies": {
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@alexislessard/hello-world-ts": "^1.0.0"
   }
 }
